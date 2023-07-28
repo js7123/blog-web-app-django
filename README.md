@@ -1,5 +1,5 @@
 # blog-app-django
-Blog application using Django and SQlite
+Blog application using Django and SQLite
 
 ## Prerequisites
 Prior to running the server please provide Django secret key value in blogsite\blogsite\settings.py file :
