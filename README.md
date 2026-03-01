@@ -34,7 +34,7 @@ SECRET_KEY = '<django-secret-key>'
 5. Create a sample superuser. Sample command:
 
    ```
-   <your directory>\blogsite>python manage.py createsuperuser
+   <your directory\blogsite>python manage.py createsuperuser
    ```
 
    Provide desired username, email address and password.
